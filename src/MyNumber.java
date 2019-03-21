@@ -1,0 +1,4 @@
+
+interface MyNumber {
+    double getValue();
+}
